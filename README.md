@@ -22,6 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hovinh414&show_icons=true&locale=en&layout=compact" alt="hovinh414" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hovinh414&show_icons=true&locale=en" alt="hovinh414" /></p>
+<svg>
 <style>
   :root {
   --bg: #1a1e2d;
@@ -373,3 +374,4 @@ tl.add(animateNotes(notesG1)).add(animateNotes(notesG2), ">0.05").add(animateNot
             path(d='M636.6,152.9c0-3.2-4.4-5.8-8.2-5.9s-9.3,2.8-9.3,6,4.8,5.7,8.7,5.7S636.6,156.1,636.6,152.9Z')
             line(x1='636.6' y1='152.9' x2='636.6' y2='106.6')
             path(d='M636.6,106.8a33.2,33.2,0,0,0,3.6,7.8c3.8,5.7,7.6,6.9,8.9,11.5a13.3,13.3,0,0,1-.9,8.4')
+</svg>
