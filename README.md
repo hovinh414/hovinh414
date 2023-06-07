@@ -26,6 +26,85 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            :root {
+  --bg: #1a1e2d;
+  --green: #a5ea9b;
+  --pink: #ff61d8;
+  --blue: #569cfa;
+  --orange: #ffcc81;
+  --cyan: #7ed1e2;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background: var(--bg);
+  display: flex;
+  place-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.container  {
+  width: 80vw;
+  height: 80vh;
+  
+  svg {
+    height: 100%;
+    width: 100%;
+    overflow: visible;
+  }
+}
+
+#bongo-cat {
+  fill: var(--bg);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 4;
+  
+  .laptop-cover,
+  .headphone .band {
+    fill: none;
+  }
+  
+  .paw, .head {
+    stroke: var(--orange);
+  }
+  
+  .laptop-keyboard {
+    stroke-width: 2;
+  }
+  
+  .terminal-code {
+    stroke-width: 5;  
+  }
+  
+  .music .note, 
+  .laptop-base, 
+  .laptop-cover,
+  .paw .pads {
+    stroke: var(--pink);   
+  }
+  
+  .table line,
+  .headphone .band,
+  .headphone .speaker path:nth-child(3) {
+    stroke: var(--green);
+  }
+
+  .terminal-frame,
+  .laptop-keyboard,
+  .headphone .speaker path:nth-child(2) {
+    stroke: var(--blue);
+  }
+  
+  .terminal-code,
+  .headphone .speaker path:first-child {
+    stroke: var(--cyan);
+  }
+}
+        </style>
         .container
   svg(xmlns='http://www.w3.org/2000/svg' viewbox='0 0 783.55 354.91')
     g#bongo-cat
