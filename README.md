@@ -22,6 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hovinh414&show_icons=true&locale=en&layout=compact" alt="hovinh414" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hovinh414&show_icons=true&locale=en" alt="hovinh414" /></p>
-<link rel="stylesheet" href="https://github.com/hovinh414/hovinh414/blob/main/style.css">
-<script src="https://github.com/hovinh414/hovinh414/blob/main/script.js"></script>
+
 
