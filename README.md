@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zinh</h1>
-<h3 align="center">I'm a 3rd year student</h3>
+<h3 align="center">I'm a 4st year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hovinh414&label=Profile%20views&color=0e75b6&style=flat" alt="hovinh414" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, SQL Injections.**
 
-- 💬 Ask me about **ASP.NET, SQl, ...**
+- 💬 Ask me about **ASP.NET, SQl, Spring boot, ...**
 
 - 📫 How to reach me **hovinh414@gmail.com**
 
