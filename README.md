@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zinh</h1>
-<h3 align="center">I'm a 4st year student</h3>
+<h3 align="center">I'm a 4th year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hovinh414&label=Profile%20views&color=0e75b6&style=flat" alt="hovinh414" /> </p>
 
