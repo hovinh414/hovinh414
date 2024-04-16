@@ -36,8 +36,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+  <img src="https://skillicons.dev/icons?i=react,java,c,next,javascript,typescript,cs,redux,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,docker,react,laravel,postgres,css,sass,mysql,vscode,figma,tailwind,postman,git" />
 </div>
   <br/><br/><br/>
 <hr/>
@@ -55,11 +55,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="thanhtin4401">
+  <a href="#" title="hovinh414">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="thanhtin4401">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="hovinh414">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hovinh414&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
