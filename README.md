@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hovinh414&label=Profile%20views&color=0e75b6&style=flat" alt="hovinh414" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
 - 🔭 I’m currently working on **HD Bank**
 
 - 🌱 I’m currently learning **C# and ReactJs**
